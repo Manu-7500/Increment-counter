@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(253, 199, 178);
+}
+
+body {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 18rem;
+
+}
+
+.container {
+    font-size: 25px;
+    padding-left: 4rem;
+}
+
+span {
+    font-family: cursive;
+}
